@@ -1,2 +1,0 @@
-# BSSTk
-Acknowledgment
