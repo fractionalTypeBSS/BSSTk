@@ -6,3 +6,4 @@ These MATLAB-based coding (BSS_func_kishida.m, corrm.m, joint_diag_real.m, weigh
 We appreciate them. 
 
 % Example; please read example.docx
+% Example data can be download from the following link; https://www.dropbox.com/sh/hua3fum6g0e3qx4/AAD4XuXIMFhaHrjKPNcF2L44a?dl=0
